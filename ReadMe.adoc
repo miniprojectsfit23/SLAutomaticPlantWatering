@@ -18,37 +18,11 @@ Automatic Plant Watering System for Sem 6 Sensor Lab Miniproject
 
 Assemble the circuit according to the following diagram
 
-<img src="https://harshsharmatechnicals.com/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-02-at-08.34.52-e1554174432145.jpeg"></img>
+https://harshsharmatechnicals.com/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-02-at-08.34.52-e1554174432145.jpeg
 
 == Step 3: Load the code
 
 Upload the code contained in this sketch on to your board
-
-=== Folder structure
-
-....
- sketch123                => Arduino sketch folder
-  ├── sketch123.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
-....
-
-=== License
-This project is released under a {License} License.
-
-=== Contributing
-To contribute to this project please contact: 
-
-=== BOM
-Add the bill of the materials you need for this project.
-
-|===
-| ID | Part name      | Part number | Quantity
-| R1 | 10k Resistor   | 1234-abcd   | 10       
-| L1 | Red LED        | 2345-asdf   | 5        
-| A1 | Arduino Zero   | ABX00066    | 1        
-|===
 
 
 === Help
