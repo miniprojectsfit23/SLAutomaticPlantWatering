@@ -1,17 +1,14 @@
 :Author: thegreatvappy
-:Email:
-:Date: 11/02/2022
-:Revision: version#
+:Email: varunpatkar501@gmail.com
+:Date: 12/02/2022
+:Revision: version1
 :License: Public Domain
 
-= Project: {Project}
+= Automatic Plant Watering System
 
-Describe your project
+Automatic Plant Watering System for Sem 6 Sensor Lab Miniproject
 
 == Step 1: Installation
-Please describe the steps to install this project.
-
-For example:
 
 1. Open this file
 2. Edit as you like
@@ -19,7 +16,9 @@ For example:
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram layout.png attached to the sketch
+Assemble the circuit according to the following diagram
+
+<img src="https://harshsharmatechnicals.com/wp-content/uploads/2019/04/WhatsApp-Image-2019-04-02-at-08.34.52-e1554174432145.jpeg"></img>
 
 == Step 3: Load the code
 
