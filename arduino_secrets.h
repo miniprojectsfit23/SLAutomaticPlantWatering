@@ -1,3 +1,3 @@
-#define SECRET_SSID "Ved"
-#define SECRET_PASS "vedant2790"
+#define SECRET_SSID "PATKARS"
+#define SECRET_PASS "horsedrankwater"
 #define SECRET_DEVICE_KEY "Q2GYGCXCU68LIJZQ6NUJ"
