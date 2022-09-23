@@ -85,6 +85,7 @@ void loop() {
   ArduinoCloud.update();
   // Your code here 
   soil_water=100 - (analogRead(A0)/10);
+  soil_water=((soil_water+2)*100)/102;
   Serial.print("Current Water Level:"+soil_water);
   if(wateringNow){
     Serial.print("Force Watering\n");
